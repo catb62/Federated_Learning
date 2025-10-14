@@ -1,0 +1,3 @@
+[submodule "FedAvg"]
+	path = FedAvg
+	url = git@github.com:catb62/FedAvg.git
