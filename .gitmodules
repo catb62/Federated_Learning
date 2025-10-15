@@ -7,3 +7,6 @@
 [submodule "FedTGP"]
 	path = FedTGP
 	url = git@github.com:catb62/FedTGP.git
+[submodule "LG-FedAvg"]
+	path = LG-FedAvg
+	url = git@github.com:catb62/LG-FedAvg.git

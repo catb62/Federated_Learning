@@ -5,6 +5,7 @@ This repository aggregates minimal implementations of federated learning algorit
 - `FedAvg/`: Minimal implementation of Federated Averaging (FedAvg)
 - `FedProto/`: Minimal implementation of Federated Prototype Learning (FedProto)
 - `FedTGP/`: Minimal implementation of Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning (FedTGP)
+- `LG-FedAvg/`: Minimal implementation of Think Locally, Act Globally (LG-FedAvg)
 
 Refer to each subdirectory `README.md` for installation and local simulation instructions.
 
@@ -29,4 +30,10 @@ Refer to each subdirectory `README.md` for installation and local simulation ins
   Year: 2024  
   Venue: AAAI-24  
   Link: https://ojs.aaai.org/index.php/AAAI/article/view/29617
+
+- Title: Think Locally, Act Globally: Federated Learning with Local and Global Representations  
+  Authors: Paul Pu Liang et al.  
+  Year: 2019  
+  Venue: NeurIPS 2019  
+  Link: https://arxiv.org/abs/2001.01523
 
