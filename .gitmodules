@@ -4,3 +4,6 @@
 [submodule "FedProto"]
 	path = FedProto
 	url = git@github.com:catb62/FedProto.git
+[submodule "FedTGP"]
+	path = FedTGP
+	url = git@github.com:catb62/FedTGP.git
